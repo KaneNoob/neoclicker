@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Neo Clicker
 
-You can use the [editor on GitHub](https://github.com/KaneNoob/neoclicker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A Newcomer clicker made by KaneNoob#5484.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Still on the first version and will try to improve day to day.
 
-### Markdown
+### Neo Clicker
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Neo Clicker is a lightweight and free-to-use autoclicker.
 
 ```markdown
 Syntax highlighted code block
