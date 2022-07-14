@@ -9,7 +9,7 @@ Still on the first version and will try to improve day to day.
 Neo Clicker is a lightweight and free-to-use autoclicker.
 
 ```markdown
-Syntax highlighted code block
+Features of the clicker
 
 # Header 1
 ## Header 2
