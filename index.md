@@ -18,7 +18,7 @@ Features of the clicker
 - Disable On Shift
 - Blockhit ( On Progress )
 
-**Bold** and _Italic_ and `Code` text
+**Downloads**
 
 [Link](url) and ![Image](src)
 ```
