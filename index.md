@@ -11,15 +11,12 @@ Neo Clicker is a lightweight and free-to-use autoclicker.
 ```markdown
 Features of the clicker
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- Autoclicker ( Of Course LOL )
+- Randomization ( Not The Best But Not The Worst Too )
+- KeyBinds
+- Breakblocks
+- Disable On Shift
+- Blockhit ( On Progress )
 
 **Bold** and _Italic_ and `Code` text
 
